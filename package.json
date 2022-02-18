@@ -1,0 +1,19 @@
+{
+  "name": "vue-with-webpack-babel",
+  "version": "1.0.0",
+  "description": "Vue + webpack 5 + babel 환경을 처음부터 구성해본다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoonHan/vue-with-webpack-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoonHan/vue-with-webpack-babel/issues"
+  },
+  "homepage": "https://github.com/YoonHan/vue-with-webpack-babel#readme"
+}
